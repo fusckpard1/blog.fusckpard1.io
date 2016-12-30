@@ -1,9 +1,9 @@
 {
   "meta": {
-    "username": "hubpress",
-    "repositoryName": "blog.hubpress.io",
+    "username": "fusckpard1",
+    "repositoryName": "blog.fusckpard1.io",
     "branch": "gh-pages",
-    "cname": "blog.hubpress.io",
+    "cname": "blog.fusckpard1.io",
     "delay": "500"
   },
   "site": {
@@ -14,8 +14,8 @@
     "disqus": "hubpress"
   },
   "socialnetwork": {
-    "twitter": "https://twitter.com/hubpressio",
-    "github": "https://github.com/hubpress"
+    "twitter": "https://twitter.com/melycarvajal",
+    "github": "https://github.com/fusckpard1"
   },
   "theme": {
     "name": "roon"
